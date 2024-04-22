@@ -1,2 +1,2 @@
-# IsingPhindAI
-experiment
+# Ising Model
+this is an experiment
