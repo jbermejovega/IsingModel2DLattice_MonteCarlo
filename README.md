@@ -1,0 +1,2 @@
+# IsingPhindAI
+experiment
